@@ -7,7 +7,7 @@
  * **Экран корзины** содержит список блюд, добавленных в корзину, возможность изменить количество.
  
 ## Preview
-![Screen](https://github.com/GregoryDushin/TestMarketApp/blob/main/TestApp.png?raw=true)
+![Screen](https://github.com/GregoryDushin/TestMarketApp/blob/main/TestAppVisuality.png?raw=true)
 
 ## Tecnologies
 
