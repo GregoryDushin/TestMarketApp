@@ -7,9 +7,7 @@
  * **Экран корзины** содержит список блюд, добавленных в корзину, возможность изменить количество.
  
 ## Preview
-![Rockets]()
-## Interactive visuality
-![Simulator Screen Recording - iPhone 13 - 2023-01-26 at 16 43 13]()
+![Screen](https://github.com/GregoryDushin/TestApp/blob/main/ScreenTestApp.png?raw=true)
 
 ## Tecnologies
 
